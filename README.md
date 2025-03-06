@@ -6,7 +6,7 @@ SoC的SPI接口的DO脚 -----> WS2812的IN脚
 
 ## 获取程序
 ```shell
-git clone git@github.com:Cohen0415/ws2812.git
+git clone git@github.com:Cohen0415/ws2812_spi_app.git
 ```
 
 ## 编译程序
