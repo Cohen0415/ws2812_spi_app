@@ -1,5 +1,7 @@
 # 在ARM Linux应用层使用SPI驱动WS2812
-本实例程序，主要验证了如何在Arm Linux应用层，使用SPI点亮WS2812
+本示例程序，主要验证了如何在Arm Linux应用层，使用SPI点亮WS2812。
+
+详细教程可参考：https://blog.csdn.net/CATTLE_L/article/details/144339104
 
 ## 接线
 SoC的SPI接口的DO脚 -----> WS2812的IN脚
